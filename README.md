@@ -22,7 +22,7 @@ I like things **clean, functional and well structured**.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stackk
 
 ### 🖥️ Frontend
 
